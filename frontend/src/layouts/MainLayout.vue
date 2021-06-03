@@ -18,7 +18,7 @@
         <div>{{ title }}</div>
         <div>{{ search }}</div>
         <q-space />
-        <div>Quasar v{{ $q.version }}</div>
+        <div>Trinmar v{{ $q.version }}</div>
       </q-toolbar>
     </q-header>
 
